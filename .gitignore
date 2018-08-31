@@ -3,3 +3,14 @@
 ################################################################################
 
 /.vs/HarfaCantari/v15
+/HarfaCantari/HarfaCantari.Android/bin/Debug
+/HarfaCantari/HarfaCantari.Android/obj
+/HarfaCantari/HarfaCantari.Android/HarfaCantari.Android.csproj.user
+/HarfaCantari/HarfaCantari.iOS/bin/iPhoneSimulator/Debug
+/HarfaCantari/HarfaCantari.iOS/obj
+/HarfaCantari/HarfaCantari.UWP/bin/x86/Debug
+/HarfaCantari/HarfaCantari.UWP/obj
+/HarfaCantari.BazaDate.Modele.Standard/bin/Debug/netstandard2.0
+/HarfaCantari.BazaDate.Modele.Standard/obj
+/HarfaCantari.BazaDate.Standard/bin/Debug/netstandard2.0
+/HarfaCantari.BazaDate.Standard/obj
